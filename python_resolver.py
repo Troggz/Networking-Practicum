@@ -1,4 +1,3 @@
-
 import sys, random
 import dns.message, dns.query, dns.rdatatype, dns.exception
 
